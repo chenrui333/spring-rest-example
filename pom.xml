@@ -10,7 +10,7 @@
 
   <properties>
     <spring.framework.version>4.0.4.RELEASE</spring.framework.version>
-    <jackson.version>2.3.3</jackson.version>
+    <jackson.version>2.10.0.pr3</jackson.version>
   </properties>
 
   <repositories>
