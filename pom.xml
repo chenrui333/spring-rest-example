@@ -9,8 +9,8 @@
   <url>http://maven.apache.org</url>
 
   <properties>
-    <spring.framework.version>4.0.4.RELEASE</spring.framework.version>
-    <jackson.version>2.3.3</jackson.version>
+    <spring.framework.version>4.3.29.RELEASE</spring.framework.version>
+    <jackson.version>2.9.10.6</jackson.version>
   </properties>
 
   <repositories>
