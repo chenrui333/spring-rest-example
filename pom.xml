@@ -10,7 +10,7 @@
 
   <properties>
     <spring.framework.version>4.0.4.RELEASE</spring.framework.version>
-    <jackson.version>2.3.3</jackson.version>
+    <jackson.version>2.9.10.8</jackson.version>
   </properties>
 
   <repositories>
@@ -103,7 +103,7 @@
     <dependency>
       <groupId>com.thoughtworks.xstream</groupId>
       <artifactId>xstream</artifactId>
-      <version>1.4.7</version>
+      <version>1.4.17</version>
     </dependency>
 
     <dependency>
